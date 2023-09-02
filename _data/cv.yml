@@ -2,21 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Kedang Chen
     - name: Date of Birth
-      value: 14th March 1879
+      value: 6th February 2002
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Undergraduate Student
+      institution: Peking University, Beijing, China
+      year: 2020-present
       description:
-        - Description 1.
-        - Description 2.
+        - College of Chemistry and Molecular Engineering, Major
+        - School of Physics, Minor
         - title: Description 3.
           contents:
             - Sub-description 1.
