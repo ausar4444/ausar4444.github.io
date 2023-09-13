@@ -23,14 +23,14 @@
       description:
         - Department of Chemistry
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Develop a spectroscopic method to determine the standard adsorption enthalpy of CO on Cu electrode
+      institution: Department of Physical Chemistry, CCME, Peking University
+      year: July 2021 - September 2022
       description:
-        - Description 1.
+        - Designed and constructed a special cell to determine the temperature dependence of CO adsorption. Developed several ATR-SEIRAS to characterize CO adsorption enthalpy on Cu electrode and estimate the absolute CO coverage.
         - Description 2.
         - title: Description 3.
           contents:
@@ -61,10 +61,12 @@
   contents:
     - year: 2020
       items: 
-        - Qin-Jin Scholarship (top 10%)
+        - Qin-Jin Scholarship 
+          (top 10%)
     - year: 2021-2022
       items: 
-        - •	Award for Contribution in Student Organizations (outstanding volunteering during the pandemic)
+        - Award for Contribution in Student Organizations 
+          (outstanding volunteering during the pandemic)
 
 - title: Academic Interests
   type: nested_list
