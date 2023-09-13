@@ -13,13 +13,13 @@
   contents:
     - title: Undergraduate Student
       institution: Peking University, Beijing, China
-      year: Sept 2020 - present
+      year: 2020/09 - present
       description:
         - College of Chemistry and Molecular Engineering, Major
         - School of Physics, Minor
     - title: Visiting Student
       institution: Yale University, New Haven, U.S.
-      year: July 2023 - present
+      year: 2023/07 - present
       description:
         - Department of Chemistry
 
@@ -28,33 +28,35 @@
   contents:
     - title: Develop a spectroscopic method to determine the standard adsorption enthalpy of CO on Cu electrode
       institution: Department of Physical Chemistry, CCME, Peking University
-      year: July 2021 - September 2022
+      year: 2021/07 - 2022/09
       description:
         - Designed and constructed a special cell to determine the temperature dependence of CO adsorption. Developed several ATR-SEIRAS to characterize CO adsorption enthalpy on Cu electrode and estimate the absolute CO coverage.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Determined the standard adsorption enthalpy of CO on Cu surfaces at electrochemical interface for the first time. Further, high-pressure SEIRAS were employed to estimate the absolute CO coverage on Cu, which led to the determination of the standard adsorption Gibbs free energy and entropy of CO.
+        - Correlated the CORR activity with the absorption strength on Cu to indicate that the presence of stronger CO binding sites on OD Cu could favor C2+ products, which experimentally proved that CO binding energy is a key descriptor of CORR catalysts.
+
+    - title: Use gas-diffusion type microfluidic electrolyzer to benchmark commercial Cu catalysts in CO2RR
+      institution: Department of Physical Chemistry, CCME, Peking University
+      year: 2022/10 - 2023/03
       description:
-        - Description 1.
-        - Description 2.
+        - Used gas-diffusion type microfluidic electrolyzer to evaluate CO2RR performance of commercial Cu catalysts. Results suggested that commercial Cu catalysts can achieve similar or better performances compare to many reported designed Cu-based catalysts.
+        - Demonstrated that the catalyst loading could effectively impact the product distribution by altering the electrode potential, and showed that high CORR performance could be achieved with enhanced selectivity of acetate due to the higher local alkalinity at reaction interface.
+        - Our results highlighted the excellent intrinsic activity and selectivity of commercial Cu catalysts in CO2RR, and suggested that future catalyst design should focus more on improving selectivity and reducing overpotential. 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Investigate effective urea synthesis through electrocatalytic oxidative C-N bond formation 
+      institution: Department of Physical Chemistry, CCME, Peking University
+      year: 2022/12 - 2023/06
       description:
+      - Reported a novel electrocatalytic oxidative coupling strategy for urea synthesis for the first time. Demonstrated the catalytic performance with high formation rate and FE surpassing all reported synthesis via electrochemical coupling through quantitative evaluation.
+      - Proposed the mechanism through combined electrochemical, in-situ spectroscopic, and computational investigations.
+      - Provided a new route in urea formation with high electron efficiency and low energy consumption compared to the current industrial process undergoing co-reduction of CO2 and nitrate.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+
+    - title: CO2 - methanol conversion under kinetic and thermodynamic guidance
+      institution: Department of Chemistry, Yale University
+      year: 2023/07 - present
+      description:
+      - In process.
 
 - title: Honors and Awards
   type: time_table
@@ -80,4 +82,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    #- <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
