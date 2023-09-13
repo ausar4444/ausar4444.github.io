@@ -82,14 +82,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Electrocatalysis mechanics and applications
       items: 
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: In-situ characterization techniques on interfaces
       items:
         - Description 1.
         - Description 2.
+    - title: Renewable energy and carbon neutrality
 
 - title: Other Interests
   type: list
