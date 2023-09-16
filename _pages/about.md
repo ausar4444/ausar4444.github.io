@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [不要温和地走进那个良夜] Rage, rage against the dying of the light
+subtitle: 不要温和地走进那个良夜 Rage, rage against the dying of the light
 
 profile:
   align: right
@@ -18,8 +18,6 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
- ——————
 
  Welcome to the e-hutch of Little Bunny! This is a Chinese rabbit who grew up by the seaside. Currently, Little Bunny is busy producing organic wastewater, searching for a doctoral cap, and eating Timothy grass.
 
