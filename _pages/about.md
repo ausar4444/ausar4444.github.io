@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>不要温和地走进那个良夜</a> Rage, rage against the dying of the light.
 
 profile:
   align: right
@@ -19,8 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
- Welcome to the website of Little Rabbit! This is a Chinese rabbit who grew up by the seaside. Currently, Little Rabbit is busy producing organic wastewater, searching for a doctoral cap, and eating Timothy grass.
+ Welcome to the e-hutch of Little Bunny! This is a Chinese rabbit who grew up by the seaside. Currently, Little Bunny is busy producing organic wastewater, searching for a doctoral cap, and eating Timothy grass.
 
- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+ 欢迎光临小兔子的网络小窝！这是一只在海边长大的中国兔子。目前兔子正在努力生产有机废水，寻找博士帽和吃提摩西草。
 
- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ Here, you can find the [resume](https://ausar4444.github.io/cv/) and [publications](https://ausar4444.github.io/publications/) of the Little Bunny. The blog is now under construction...
+
+ 在这里你可以找到兔子的[简历](https://ausar4444.github.io/cv/)和[发表刊物](https://ausar4444.github.io/publications/)。博客正在施工中...
+

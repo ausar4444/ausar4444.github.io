@@ -5,6 +5,8 @@
       value: Kedang Chen
     - name: Date of Birth
       value: 6th February 2002
+    - name: Gender
+      value: Male
     - name: Languages
       value: Chinese, English
 
