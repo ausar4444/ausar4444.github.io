@@ -32,7 +32,7 @@ highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-them
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
-repo_theme_light: algolia(https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
@@ -107,7 +107,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  Send email to wake the sleepy bunny up!
+ Send email to wake the sleepy bunny up!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -123,7 +123,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: The Tower XVI     The Moon XVIII # blog_name will be displayed in your blog page
+blog_name: >
+ <p>The Tower XVI</p>
+ <p>The Moon XVIII</p> 
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: 所见之塔与所吻之月
 permalink: /blog/:year/:title/
