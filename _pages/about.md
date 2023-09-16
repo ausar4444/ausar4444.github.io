@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 不要温和地走进那个良夜 Rage, rage against the dying of the light
+subtitle: <a href='#'>不要温和地走进那个良夜</a> Rage, rage against the dying of the light
 
 profile:
   align: right
