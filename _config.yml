@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: BUNNY'S WWWEBSITE # the website title (if blank, full name will be used instead)
 first_name: KEDANG
-middle_name: 
-last_name: CHEN
-email: ausarthem@gmail.com
+middle_name: CHEN
+last_name: 陈可当
+email: 2000011732@stu.pku.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -107,7 +107,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Send email to wake the sleepy bunny up!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -123,9 +123,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: The Tower & The Moon # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: 所见之塔与所吻之月
 permalink: /blog/:year/:title/
 
 # Pagination
