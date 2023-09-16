@@ -123,9 +123,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: >
- <p>The Tower XVI</p>
- <p>The Moon XVIII</p> 
+blog_name: __The Tower XVI__ __The Moon XVIII__
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: 所见之塔与所吻之月
 permalink: /blog/:year/:title/
