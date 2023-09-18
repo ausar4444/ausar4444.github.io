@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
- Welcome to the e-hutch of Little Bunny! This is a Chinese rabbit who grew up by the seaside. Currently, Little Bunny is busy producing organic wastewater, searching for a doctoral cap, and eating Timothy grass.
+ Welcome to the e-hutch of Little Bunny! This is a Chinese rabbit who grew up by the seaside. Currently, Little Bunny is busy producing organic wastewater, looking forward to a doctoral cap, and eating Timothy grass.
 
  欢迎光临小兔子的网络小窝！这是一只在海边长大的中国兔子。目前兔子正在努力生产有机废水，寻找博士帽和吃提摩西草。
 
