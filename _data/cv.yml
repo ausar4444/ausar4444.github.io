@@ -70,7 +70,15 @@
     - year: 2021-2022
       items: 
         - Award for Contribution in Student Organizations 
-          (outstanding volunteering during the pandemic)
+          (outstanding volunteering during COVID)
+    - year: 2022-2023
+      items: 
+        - The Third Prize Scholarship of Peking University
+          (top 20%)
+    - year: 2022-2023
+      items: 
+        - Award for Outstanding Research
+          (National Innovation Research Training Program)
 
 - title: Academic Interests
   type: nested_list
